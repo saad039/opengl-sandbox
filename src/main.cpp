@@ -26,5 +26,6 @@ int main(int argc, char const *argv[]){
     glfwDestroyWindow(windows);
     glfwTerminate();
 
+    int value = 25ul;
     return EXIT_SUCCESS;
 }
