@@ -9,4 +9,4 @@ AllowShortIfStatementsOnASingleLine: true
 AllowShortLambdasOnASingleLine: All
 AllowShortLoopsOnASingleLine: true
 SpaceAfterLogicalNot: false
-SortIncludes: true
+SortIncludes: false
